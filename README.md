@@ -25,6 +25,10 @@ We do this by supporting Softreck Fonudation Open Source Projects backed by corp
 We help projects stay focused on producing high-quality software without the legal and administrative distractions 
 and overhead so they can focus on helping contributors and writing code.
 
+## Our Projects
+
+
+
 ## Why not encourage Softreck Open Source Projects to join other foundations?
 
 We certainly don't discourage it! Absolutely feel free to join any foundation you prefer. We will even happily
@@ -57,6 +61,11 @@ and [Code of Conduct](https://coc.softreck.dev).
 ## Contacting Us
 
 + Questions about this FAQ? [Contact us](mailto:faq@softreck.dev).
+  
+## More Information
+
++ [Privacy Policy at Softreck - pp.softreck.dev](https://pp.softreck.dev)
++ [Terms of Use - Softreck - tos.softreck.dev](https://tos.softreck.dev)
 
 ---
 
