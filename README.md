@@ -13,17 +13,17 @@ technologies for Softreck.
 ## Goals Softreck Company Foundation
 
 Our goal is to strengthen the Softreck ecosystem through openness, rapid innovation, and community participation.
+Softreck Company was created at 2019.01
 
-Softreck Foundation is bigger than just Softreck Company and we want to see the platform survive for another 2 years (
-since Softreck Comapny existing) – in the open. We want to collaborate with industry partners that will innovate with
-the community.
+Softreck Foundation is bigger than just Softreck Company 
+and we want to see the platform survive for another 2 years – in the open.
+We want to collaborate with industry partners that will innovate with the community.
 
 ## Support on Open Source Projects
 
 We do this by supporting Softreck Fonudation Open Source Projects backed by corporate sponsors and individuals alike. 
-We
-help projects stay focused on producing high-quality software without the legal and administrative distractions and
-overhead so they can focus on helping contributors and writing code.
+We help projects stay focused on producing high-quality software without the legal and administrative distractions 
+and overhead so they can focus on helping contributors and writing code.
 
 ## Why not encourage Softreck Open Source Projects to join other foundations?
 
