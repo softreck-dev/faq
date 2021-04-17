@@ -27,7 +27,8 @@ and overhead so they can focus on helping contributors and writing code.
 
 ## Our Projects
 
-
++ [Softreck Ecossytem - eco.softreck.dev](https://eco.softreck.dev)
++ [Softreck - softreck.dev](https://www.softreck.dev)
 
 ## Why not encourage Softreck Open Source Projects to join other foundations?
 
@@ -66,6 +67,7 @@ and [Code of Conduct](https://coc.softreck.dev).
 
 + [Privacy Policy at Softreck - pp.softreck.dev](https://pp.softreck.dev)
 + [Terms of Use - Softreck - tos.softreck.dev](https://tos.softreck.dev)
++ [Softreck.Dev Foundation Code of Conduct - coc.softreck.dev](https://coc.softreck.dev)
 
 ---
 
