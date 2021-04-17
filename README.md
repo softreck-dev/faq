@@ -1,12 +1,11 @@
-# FAQ, Softreck Company Foundation
-
-Goals, Projects, Community, Membership at Softreck Company OSS Projects
+# FAQ 
 
 + [FAQ - faq.softreck.dev](https://faq.softreck.dev)
 + [FAQ - github](https://softreck.github.io/faq/)
 
+Goals, Projects, Community, Membership at Softreck Company OSS Projects
 
-## Why?
+## Why Softreck Company Foundation?
 
 We were designed from the start as an independent forum to foster open development and collaboration across open source
 technologies for Softreck.
@@ -54,3 +53,11 @@ evaluating project acceptance, we require that the project be directly related t
 We also look at the
 community health of the project to make sure it aligns to the Softreck Foundation’s values
 and [Code of Conduct](https://coc.softreck.dev).
+
+## Contacting Us
+
++ Questions about this FAQ? [Contact us](mailto:faq@softreck.dev).
+
+---
+
+[edit source](https://github.com/softreck/faq/edit/main/README.md), [github project](https://github.com/softreck/faq)
