@@ -5,6 +5,7 @@ Goals, Projects, Community, Membership at Softreck Company OSS Projects
 + [FAQ - faq.softreck.dev](https://faq.softreck.dev)
 + [FAQ - github](https://softreck.github.io/faq/)
 
+
 ## Why?
 
 We were designed from the start as an independent forum to foster open development and collaboration across open source
@@ -52,4 +53,4 @@ All Softreck Foundation projects are expected to contribute to the Softreck ecos
 evaluating project acceptance, we require that the project be directly related to Softreck. 
 We also look at the
 community health of the project to make sure it aligns to the Softreck Foundation’s values
-and [Code of Conduct](https://coc.softreck.org).
+and [Code of Conduct](https://coc.softreck.dev).
